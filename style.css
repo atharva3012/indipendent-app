@@ -1,0 +1,25 @@
+
+
+body
+{
+    background-color:grey;
+
+}
+
+#user_name{
+    width: 350px;
+}
+
+#booking{
+    font-weight:bold ;
+    color: ivory;
+}
+
+#lion_king{
+    width: 400px;
+    height: 400px;
+}
+#harry_potter{
+    width: 400px;
+    height: 400px;
+}
